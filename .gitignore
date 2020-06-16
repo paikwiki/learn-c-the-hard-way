@@ -1,3 +1,5 @@
 .DS_Store
 **/.Ds_store
+**/*.swp
 codes/**/*.dSYM
+
